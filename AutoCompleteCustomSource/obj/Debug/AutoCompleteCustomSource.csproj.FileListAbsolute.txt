@@ -1,0 +1,9 @@
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\bin\Debug\AutoCompleteCustomSource.exe
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\bin\Debug\AutoCompleteCustomSource.pdb
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\obj\Debug\AutoCompleteCustomSource.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\obj\Debug\AutoCompleteCustomSource.Form1.resources
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\obj\Debug\AutoCompleteCustomSource.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\obj\Debug\AutoCompleteCustomSource.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\obj\Debug\AutoCompleteCustomSource.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\obj\Debug\AutoCompleteCustomSource.exe
+C:\Users\ua4aeu\Desktop\WF\AutoCompleteCustomSource\obj\Debug\AutoCompleteCustomSource.pdb
